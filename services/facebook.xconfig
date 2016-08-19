@@ -1,0 +1,6 @@
+"Facebook Livestream" : {
+	servers : {
+	  "Default" : rtmp://rtmp-api.facebook.com:80/rtmp/
+	  "SSL" : rtmps://rtmp-api.facebook.com:443/rtmp/
+	}
+}
