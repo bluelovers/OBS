@@ -1,0 +1,5 @@
+LIVEhouse.in : {
+	servers : {
+	  "Default" : rtmp://live-ea.livehouse.in/app
+	}
+}
