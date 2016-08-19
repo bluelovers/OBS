@@ -1,0 +1,5 @@
+"localhost nginx rtmp" : {
+	servers : {
+	  "Default" : rtmp://127.0.0.1/stream
+	}
+}
